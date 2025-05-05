@@ -20,19 +20,19 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "TANAKA🖕👾",
+  "PREFIX": "*",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "100095352395064",
+    ""
   ],
   "DESIGN": {
-    "Title": "BotPack",
-    "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Title": "AKO SI TANAKA NATURAL BOTPACK",
+    "Theme": "Green",
+    "Admin": "BEGIE POGI👾🖕",
     "Setup": {
-      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
-      "Themes": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+      "Info": "THIS BOT IS FOR TROLLING ONLY 👾🖕",
+      "Themes": "Retro",
     }
   },
   "APPSTATEPATH": "appstate.json",
